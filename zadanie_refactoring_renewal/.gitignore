@@ -1,0 +1,17 @@
+.idea
+.idea/
+bin
+bin/
+obj
+obj/
+.vs
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.iml
+TestResults/
+.nuget/
+packages/
+_ReSharper*/
+*.DotSettings.user
